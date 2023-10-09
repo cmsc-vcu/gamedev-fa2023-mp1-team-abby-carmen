@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 3946f7e5e8d5d974ebad2af447876109
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 713
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 140}
+        - {x: -92, y: 121}
+        - {x: -122, y: 97}
+        - {x: -138, y: 65}
+        - {x: -138, y: -45}
+        - {x: -118, y: -92}
+        - {x: -92, y: -126}
+        - {x: -53, y: -143}
+        - {x: -4, y: -143}
+        - {x: 35, y: -144}
+        - {x: 79, y: -142}
+        - {x: 123, y: -134}
+        - {x: 135, y: -105}
+        - {x: 136, y: -67}
+        - {x: 135, y: -19}
+        - {x: 132, y: 37}
+        - {x: 119, y: 77}
+        - {x: 87, y: 117}
+        - {x: 40, y: 141}
+        - {x: -26, y: 148}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b824b521eafd4fc4a913713404fea8bc
+      internalID: -981607285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 625
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 87}
+        - {x: -95, y: 87}
+        - {x: -120, y: 81}
+        - {x: -128, y: 59}
+        - {x: -131, y: 6}
+        - {x: -123, y: -32}
+        - {x: -84, y: -68}
+        - {x: 8, y: -94}
+        - {x: 97, y: -57}
+        - {x: 124, y: -21}
+        - {x: 131, y: 30}
+        - {x: 116, y: 62}
+        - {x: 78, y: 70}
+        - {x: 31, y: 80}
+        - {x: -38, y: 87}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f03be9c1ec33140a276c614b21fd49
+      internalID: 439529583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_4
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 678
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 121}
+        - {x: 51, y: 135}
+        - {x: 21, y: 135}
+        - {x: -11, y: 127}
+        - {x: -45, y: 101}
+        - {x: -73, y: 76}
+        - {x: -70, y: 38}
+        - {x: -61, y: 13}
+        - {x: -79, y: -32}
+        - {x: -111, y: -84}
+        - {x: -97, y: -122}
+        - {x: -44, y: -133}
+        - {x: 4, y: -115}
+        - {x: 52, y: -60}
+        - {x: 68, y: -39}
+        - {x: 79, y: -17}
+        - {x: 77, y: 8}
+        - {x: 75, y: 39}
+        - {x: 76, y: 58}
+        - {x: 78, y: 91}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81683282f1c67ce4194d1833fc32c607
+      internalID: 804874797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_5
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 832
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16e79a1864bd741b50a09e0fc36757
+      internalID: 149420639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 268
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 92}
+        - {x: -81, y: 27}
+        - {x: -91, y: -46}
+        - {x: -86, y: -98}
+        - {x: -45, y: -108}
+        - {x: 14, y: -90}
+        - {x: 92, y: -29}
+        - {x: 130, y: 18}
+        - {x: 133, y: 73}
+        - {x: 96, y: 110}
+        - {x: 49, y: 116}
+        - {x: 3, y: 111}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11210e3793ee174aaee4dc1aafc5979
+      internalID: 390255916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_11
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 251
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378bf11bb8dafb24e8a91e4058e33454
+      internalID: 1218053055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 138
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3591e0af0e839a84fa8bf7097870a7b4
+      internalID: -946756621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish animation 600 pix maybe_14
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 127
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234335c414141b94c81e4b90c14dda3b
+      internalID: 862118651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de67e434277fcd74c9c7860dc01122a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fish animation 600 pix maybe_0: -981607285
+      Fish animation 600 pix maybe_1: -674614174
+      Fish animation 600 pix maybe_10: 212217669
+      Fish animation 600 pix maybe_11: 1218053055
+      Fish animation 600 pix maybe_12: 768772117
+      Fish animation 600 pix maybe_13: -946756621
+      Fish animation 600 pix maybe_14: 862118651
+      Fish animation 600 pix maybe_15: 1102924272
+      Fish animation 600 pix maybe_16: 1807478097
+      Fish animation 600 pix maybe_2: 439529583
+      Fish animation 600 pix maybe_3: -1132522672
+      Fish animation 600 pix maybe_4: 804874797
+      Fish animation 600 pix maybe_5: 149420639
+      Fish animation 600 pix maybe_6: 1183010940
+      Fish animation 600 pix maybe_7: -1025375552
+      Fish animation 600 pix maybe_8: 390255916
+      Fish animation 600 pix maybe_9: -887221042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
